@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="sprint-mvc:war exploded">
+    <output-path>$PROJECT_DIR$/target/mvc-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sprint-mvc/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sprint-mvc" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
